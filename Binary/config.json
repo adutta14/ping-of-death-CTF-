@@ -1,0 +1,9 @@
+{
+ "delay":60,
+ "ctf_ip":"http://35.160.215.67/",
+ "team_id":"akhairna@asu.edu",
+ "team_pass":"qVcaQxY6hyr3",
+ "service_id_binary":20001,
+ "service_id_py":20002,
+ "service_id_web":20003
+}
